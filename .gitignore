@@ -1,0 +1,13 @@
+# Gradle project-specific cache directory
+.gradle/
+gradle/
+
+# Gradle build directories
+build/
+bin/
+
+# Server node_modules
+node_modules/
+
+# VSCode user settings
+.vscode/
